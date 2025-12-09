@@ -1,0 +1,35 @@
+{
+  "Red Sea": {
+    "By Cruise Type": {},
+    "By Port Type / Function": {
+      "Homeport (turnaround ports)": {
+        "Homeport (turnaround ports) (Jeddah Islamic Port; NEOM Sindalah (future); etc.)": {}
+      }
+    },
+    "By Passenger Source Market": {},
+    "By Trip Duration": {},
+    "By Ship Size (Passenger Capacity)": {},
+    "By Region": {
+      "Egypt": {
+        "Safaga": {},
+        "Hurghada": {},
+        "Sharm El Sheikh": {},
+        "Suez": {}
+      },
+      "Jordan": {
+        "Aqaba": {}
+      },
+      "Saudi Arabia": {
+        "Jeddah": {},
+        "Yanbu": {},
+        "NEOM Sindalah (upcoming)": {}
+      },
+      "Sudan": {
+        "Port Sudan": {}
+      },
+      "Djibouti": {
+        "Djibouti Port": {}
+      }
+    }
+  }
+}
